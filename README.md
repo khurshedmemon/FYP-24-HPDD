@@ -1,2 +1,2 @@
 # FYP-24-HPDD
-FYP Project for Home-based Plant Disease Detection
+Final Year Project (FYP) of Home-based Plant Disease Detection
